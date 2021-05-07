@@ -1,4 +1,4 @@
-# create react app for typescript project
+# create react app for TypeScript project
 npx create-react-app {プロジェクト名} --template typescript
 
 # Getting Started with Create React App
